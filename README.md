@@ -3,6 +3,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4816237.svg)](https://doi.org/10.5281/zenodo.4816237)
 
+** To access data and scripts, please click on the DOI link above **
+
 #### Other(s)
 Peters, Piet
 
