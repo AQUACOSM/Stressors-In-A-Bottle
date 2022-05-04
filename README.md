@@ -1,4 +1,4 @@
-# Stressors in a bottle
+# Stressors In A Bottle
 [Armstrong, Margaret](https://orcid.org/0000-0003-0876-5342)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4816237.svg)](https://doi.org/10.5281/zenodo.4816237)
